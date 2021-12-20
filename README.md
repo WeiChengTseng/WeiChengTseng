@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wei-Cheng's github stats](https://github-readme-stats.vercel.app/api?username=yoontae6719&hide=["issues"]&show_icons=true)
+![Wei-Cheng's github stats](https://github-readme-stats.vercel.app/api?username=WeiChengTseng&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yoontae6719.yoontae6719)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WeiChengTseng.WeiChengTseng)
